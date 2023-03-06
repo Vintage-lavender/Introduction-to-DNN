@@ -1,5 +1,5 @@
 # Introduction-to-DNN
-2022-1학기에 수강한 성균관대학교 소프트웨어학과 전공 수업인
+2022-1학기에 수강한 소프트웨어학과 전공 수업인
 "심층신경망개론(이지형 교수님)"의 과제 및 제출결과물입니다.
 
 - [homework#1](https://github.com/Vintage-lavender/Introduction-to-DNN/tree/assignment/HOMEWORK1)
